@@ -25,7 +25,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
   color: rgb(36, 41, 46);
   fill: rgb(36, 41, 46);
