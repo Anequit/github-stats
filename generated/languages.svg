@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #178600;width: 73.962%;" class="progress-item"></span><span style="background-color: #3572A5;width: 21.493%;" class="progress-item"></span><span style="background-color: #012456;width: 3.421%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.673%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.374%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.077%;" class="progress-item"></span>
+<span style="background-color: #178600;width: 73.824%;" class="progress-item"></span><span style="background-color: #3572A5;width: 21.640%;" class="progress-item"></span><span style="background-color: #012456;width: 3.414%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.672%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.373%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.077%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">73.96%</span>
+<span class="percent">73.82%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">21.49%</span>
+<span class="percent">21.64%</span>
 </li>
 
 
@@ -134,7 +134,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PowerShell</span>
-<span class="percent">3.42%</span>
+<span class="percent">3.41%</span>
 </li>
 
 
