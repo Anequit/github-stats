@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #178600;width: 79.847%;" class="progress-item"></span><span style="background-color: #3572A5;width: 15.810%;" class="progress-item"></span><span style="background-color: #012456;width: 2.398%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.256%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.477%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.213%;" class="progress-item"></span>
+<span style="background-color: #178600;width: 79.895%;" class="progress-item"></span><span style="background-color: #3572A5;width: 15.820%;" class="progress-item"></span><span style="background-color: #012456;width: 2.399%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.256%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.477%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.153%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">79.85%</span>
+<span class="percent">79.89%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">15.81%</span>
+<span class="percent">15.82%</span>
 </li>
 
 
@@ -161,7 +161,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">0.21%</span>
+<span class="percent">0.15%</span>
 </li>
 
 
